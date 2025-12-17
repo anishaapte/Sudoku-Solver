@@ -1,0 +1,7 @@
+Boards solved successfully: 400
+Runtime Statistics (in seconds):
+  Minimum: 0.0069
+  Maximum: 0.9781
+  Mean:    0.0855
+  Standard Deviation: 0.1132
+
